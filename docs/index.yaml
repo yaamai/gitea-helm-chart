@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  gitea:
+  - appVersion: 1.6.1
+    created: 2019-04-20T17:08:04.176707802+09:00
+    description: Git with a cup of tea
+    digest: 96edad0dab2c3c4cd4148bd75e7ed31928faa605bcca1dcf9ba419c8e8eecf3c
+    icon: https://docs.gitea.io/images/gitea.png
+    keywords:
+    - git
+    - issue tracker
+    - code review
+    - wiki
+    - gitea
+    - gogs
+    maintainers:
+    - email: john.felten@gmail.com
+      name: John Felten
+    name: gitea
+    sources:
+    - https://github.com/go-gitea/gitea
+    - https://hub.docker.com/r/gitea/gitea/
+    urls:
+    - gitea-1.6.1.tgz
+    version: 1.6.1
+generated: 2019-04-20T17:08:04.174532199+09:00
